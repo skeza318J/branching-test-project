@@ -1,15 +1,9 @@
-h1 {
-  color: darkred;
-}
-h2 {
-  font-style: italic;
+.important {
   color: red;
 }
-p {
-  color: crimson;
+.unimportant {
+  color: blue;
 }
-body {
-  background-color: salmon;
-  font-family: sans-serif;
-  text-align: center;
+.cat-climate {
+  background-color: yellow;
 }
